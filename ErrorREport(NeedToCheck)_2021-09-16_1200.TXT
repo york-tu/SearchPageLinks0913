@@ -1,0 +1,4 @@
+List_1,  'https://www.googletagmanager.com/gtm.js?id=',       Detail: 'The remote server returned an error: (400) Bad Request.'
+List_2,  'https://www.googletagmanager.com/ns.html?id=GTM-5LLQXL',       Detail: 'The remote server returned an error: (405) Method Not Allowed.'
+List_75,  'https://j3x8a.app.goo.gl/Buy-Foreign-Currency-web',       Detail: 'The remote server returned an error: (405) Method Not Allowed.'
+List_107,  'https://www.esunsec.com.tw',       Detail: 'The remote server returned an error: (500) Internal Server Error.'
