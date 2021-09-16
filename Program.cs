@@ -65,7 +65,8 @@ namespace SearchPageLinks_0913
                     {
                         ErrorResult.WriteLine($"List_{n},  '{pagelink}',       Detail: '{e.Message}'");
                     }
-                    n++;
+                   // TotalResult.WriteLine(writeResult);
+                  n++;
                 }
             }
             TotalResult.Close();
